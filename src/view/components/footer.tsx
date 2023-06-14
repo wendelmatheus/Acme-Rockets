@@ -4,13 +4,11 @@ export default function Footer() {
       <section className="max-w-4xl mx-auto p-4 flex flex-col sm:flex-row sm:justify-between">
         <address>
           <h2>Acme Rocket-Powered Products, Inc.</h2>
-          555 Astro Way
+          Mars, Solar System 12345-5555
           <br />
-          Fairfield, New Jersey 12345-5555
+          Email: <a href="mailto:wendeltel6a@gmail.com">wendeltel6a@gmail.com</a>
           <br />
-          Email: <a href="mailto:inquiries@acmerockets.com">wendel@exemplo.com</a>
-          <br />
-          Phone: <a href="tel:+15555555555">(19) 9999-9999</a>
+          Phone: (19) 99181-7177
         </address>
         <nav className="hidden md:flex flex-col gap-2" aria-label="footer">
           <a href="#rockets" className="hover:opacity-90">
