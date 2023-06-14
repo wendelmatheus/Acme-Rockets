@@ -1,5 +1,5 @@
 import Citacao from "./components/citacao";
-import TitleSection from "./components/titleSection";
+import TitleSection from "./components/TitleSection";
 
 export default function Testimonials() {
   return (

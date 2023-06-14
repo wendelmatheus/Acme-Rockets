@@ -1,5 +1,5 @@
 import Formulario from "./components/formulario";
-import TitleSection from "./components/titleSection";
+import TitleSection from "./components/TitleSection";
 
 export default function Contact() {
   return (

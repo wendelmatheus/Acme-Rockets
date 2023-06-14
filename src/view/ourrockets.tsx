@@ -1,5 +1,5 @@
 import ItemLista from "./components/ItemLista";
-import TitleSection from "./components/titleSection";
+import TitleSection from "./components/TitleSection";
 
 export default function OurRockets() {
   return (
